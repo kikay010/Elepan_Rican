@@ -99,7 +99,7 @@ a:hover {
     padding: 33vh 0 0 0;
 }
 
-.text-section li:nth-child(4){
+.text-section li:nth-child(3){
     font-size: 6vh;
 }
 
@@ -211,7 +211,7 @@ p{
                     padding-left: 5vh;
                 }
 
-                li:nth-child(4){
+                li:nth-child(3){
                     padding-top: 8vh;   
                     font-size: 5.6vh;
 
@@ -294,7 +294,7 @@ p{
                     padding-left: 5vh;
                 }
 
-                li:nth-child(4){
+                li:nth-child(3){
                     padding-top: 8vh;   
                     font-size: 5.2vh;
  
@@ -379,7 +379,7 @@ p{
                     padding-left: 5vh;
                 }
 
-                li:nth-child(4){
+                li:nth-child(3){
                     padding-top: 8vh;   
                     font-size: 4.9vh;
  
@@ -464,7 +464,7 @@ p{
                     padding-left: 0vh;
                 }
 
-                li:nth-child(4){
+                li:nth-child(3){
                     padding-top: 0vh;   
                     font-size: 4.6vh;
  
@@ -551,7 +551,7 @@ p{
                     align-items: center;
                 }
 
-                li:nth-child(4){
+                li:nth-child(3){
                     padding-top: 0vh;   
                     font-size: 4.3vh;
  
@@ -658,7 +658,7 @@ p{
                 }
 
 
-                li:nth-child(4){
+                li:nth-child(3){
                     padding-top: 0vh;   
                     font-size: 3.9vh;
  
@@ -744,7 +744,7 @@ p{
                     align-items: center;
                 }
 
-                li:nth-child(4){
+                li:nth-child(3){
                     padding-top: 0vh;   
                     font-size: 3.2vh;
  
@@ -825,7 +825,7 @@ p{
                 padding-top: 0vh;
 
 
-                li:nth-child(4){
+                li:nth-child(3){
                     padding-top: 0vh;   
                     font-size: 2.4vh;
  
@@ -903,7 +903,7 @@ p{
                 grid-row: 2/2;
                 padding: 0vh;
 
-                li:nth-child(4){
+                li:nth-child(3){
                     padding: 0vh;   
                     font-size: 2.3vh;
  
