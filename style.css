@@ -108,8 +108,16 @@ a {
     position: relative; 
 }
 
-.menu-bar {
-    display: none !important;
+  .menu-toggle {
+    display: none;
+  }
+
+  .menu-toggle {
+    display: none;
+    position: fixed;
+    background-color: #8F1CBD;
+    color: white;
+    border: none;
 }
 
 .libre-caslon-text-regular {
@@ -574,11 +582,11 @@ a {
                     display: none;
                 }
 
-                .menu-bar {
-                    float: left;
-                    display: block !important;
-                    font-size: 2.5vh;
-
+                .menu-toggle {
+                    display: block;
+                    top: 4.5vh;
+                    left: 7vh;
+                    font-size: 3vh;
                 }
             
             .image-section {
@@ -656,11 +664,11 @@ a {
                     display: none;
                 }
 
-                .menu-bar {
-                    float: left;
-                    display: block !important;
+                .menu-toggle {
+                    display: block;
+                    top: 4.5vh;
+                    left: 4vh;
                     font-size: 2.5vh;
-
                 }
             
             .image-section {
@@ -738,11 +746,11 @@ a {
                     display: none;
                 }
 
-                .menu-bar {
-                    float: left;
-                    display: block !important;
-                    font-size: 2.5vh;
-
+                .menu-toggle {
+                    display: block;
+                    top: 3.1vh;
+                    left: 3vh;
+                    font-size: 2.2vh;
                 }
             
             .image-section {
@@ -816,11 +824,11 @@ a {
                     display: none;
                 }
 
-                .menu-bar {
-                    float: left;
-                    display: block !important;
-                    font-size: 2.5vh;
-
+                .menu-toggle {
+                    display: block;
+                    top: 3.5vh;
+                    left: 2.5vh;
+                    font-size: 1.8vh;
                 }
             
             .image-section {
